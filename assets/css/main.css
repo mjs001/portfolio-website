@@ -2908,6 +2908,15 @@ input, select, textarea {
 						padding-left: 0;
 					}
 
+.codepen{
+	margin: 2% auto;
+}
+
+.GitHub{
+	margin: 2% auto;
+}
+
+
 /* Large */
 
 	@media screen and (max-width: 1680px) {
